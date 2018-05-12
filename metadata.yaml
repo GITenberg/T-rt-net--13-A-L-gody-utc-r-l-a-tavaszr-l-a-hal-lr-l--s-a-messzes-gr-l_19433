@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8668
     wikipedia: http://hu.wikipedia.org/wiki/Bal%C3%A1zs_B%C3%A9la
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19433#T-rt-net--13-A-L-gody-utc-r-l-a-tavaszr-l-a-hal-lr-l--s-a-messzes-gr-l
 gutenberg_issued: '2006-10-02'
 gutenberg_type: Text
 identifiers:
