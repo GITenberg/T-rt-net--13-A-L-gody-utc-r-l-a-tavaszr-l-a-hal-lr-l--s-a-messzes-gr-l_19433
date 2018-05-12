@@ -1,0 +1,31 @@
+_repo: T-rt-net--13-A-L-gody-utc-r-l-a-tavaszr-l-a-hal-lr-l--s-a-messzes-gr-l_19433
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Balázs, Béla
+    aliases:
+    - Balash, Bela
+    - Balazs, Bela
+    - Bauer, Herbert
+    birthdate: 1884
+    deathdate: 1949
+    gutenberg_agent_id: '8668'
+    url: http://www.gutenberg.org/2009/agents/8668
+    wikipedia: http://hu.wikipedia.org/wiki/Bal%C3%A1zs_B%C3%A9la
+description: ''
+gutenberg_issued: '2006-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19433'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcc 'PH'
+title: "Történet\r\nA Lógody-utcáról, a tavaszról, a halálról és a messzeségről"
+url: http://www.gutenberg.org/ebooks/19433
